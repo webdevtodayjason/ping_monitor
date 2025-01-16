@@ -35,7 +35,7 @@ Example format:
 ## Usage
 1. Start a screen session to run the monitor script in the background:
   ```bash
-screen -S ping_monitor -dm python3 ip_ping_monitor.py
+screen -S ping_monitor -dm python ip_ping_monitor.py
 ```
 This command starts a detached screen session named ping_monitor and runs the monitor.py script, which continuously monitors the IP addresses specified in targets.csv.
 
