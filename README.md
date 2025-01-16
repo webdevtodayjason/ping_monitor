@@ -20,7 +20,7 @@ This Python script monitors the reachability of multiple IP addresses, logs the 
 
    ```bash
    git clone https://github.com/webdevtodayjason/ping_monitor.git
-   cd ip-ping_monitor
+   cd ping_monitor
    ```
 2. No external dependencies beyond Python standard library are required.
 ## Configuration
