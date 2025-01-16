@@ -29,8 +29,8 @@ This Python script monitors the reachability of multiple IP addresses, logs the 
 Example format:
    ```bash
   IP,TARGET_NAME,PING_INTERVAL
-  104.202.247.86,Server1,5
-  192.168.1.1,Router,10
+  8.8.8.8,Google,5
+  1.1.1.1,CloudFlair,10
   ```
 ## Usage
 1. Start a screen session to run the monitor script in the background:
